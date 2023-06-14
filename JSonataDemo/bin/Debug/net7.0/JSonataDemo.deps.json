@@ -1,0 +1,76 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "JSonataDemo/1.0.0": {
+        "dependencies": {
+          "Jsonata.Net.Native": "2.0.1",
+          "Jsonata.Net.Native.JsonNet": "2.0.1"
+        },
+        "runtime": {
+          "JSonataDemo.dll": {}
+        }
+      },
+      "Jsonata.Net.Native/2.0.1": {
+        "runtime": {
+          "lib/net5.0/Jsonata.Net.Native.dll": {
+            "assemblyVersion": "2.0.1.0",
+            "fileVersion": "2.0.1.0"
+          }
+        }
+      },
+      "Jsonata.Net.Native.JsonNet/2.0.1": {
+        "dependencies": {
+          "Jsonata.Net.Native": "2.0.1",
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "lib/net5.0/Jsonata.Net.Native.JsonNet.dll": {
+            "assemblyVersion": "2.0.1.0",
+            "fileVersion": "2.0.1.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25517"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JSonataDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Jsonata.Net.Native/2.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4ATzpJAT1mFTmop3hxa/L1RzYMpDrzft5J8bw90xlNwQuj325MxZmjep5fGGMNgZRYPt7e3VM6eFe0J91KMMOA==",
+      "path": "jsonata.net.native/2.0.1",
+      "hashPath": "jsonata.net.native.2.0.1.nupkg.sha512"
+    },
+    "Jsonata.Net.Native.JsonNet/2.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-99FM+v5/UaNXzajJzgfNRHX5DCcRf8sY7UmpM1pvOLACROmSKsN57anq/XuKJIcaWPLRZoq09+TiBM05mZC2nQ==",
+      "path": "jsonata.net.native.jsonnet/2.0.1",
+      "hashPath": "jsonata.net.native.jsonnet.2.0.1.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "path": "newtonsoft.json/13.0.1",
+      "hashPath": "newtonsoft.json.13.0.1.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HyXpmxTzpN6EIcBvaU9QPKMrblP1iCVWyd6NSFzwIao/UO6j8sf/HJn6ktBJX7k7Fssfr9Tz8i9GGjl84eBz3g==",
+  "success": true,
+  "projectFilePath": "/Users/julia.gula/Projects/JSonataDemo/JSonataDemo/JSonataDemo.csproj",
+  "expectedPackageFiles": [
+    "/Users/julia.gula/.nuget/packages/jsonata.net.native/2.0.1/jsonata.net.native.2.0.1.nupkg.sha512",
+    "/Users/julia.gula/.nuget/packages/jsonata.net.native.jsonnet/2.0.1/jsonata.net.native.jsonnet.2.0.1.nupkg.sha512",
+    "/Users/julia.gula/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
